@@ -1,5 +1,7 @@
 body {
     background-color: rgb(255, 255, 165);
+    text-align: center;
+    
 }
 
 .image{
@@ -23,4 +25,15 @@ div, img{
     min-width: 200px;
     text-align: center;
     margin: 0;
+}
+
+h1 {
+    text-align: center;
+    text-shadow: #888888;
+    text-decoration-color: black;
+}
+p{
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
 }
