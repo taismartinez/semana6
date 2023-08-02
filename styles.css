@@ -19,6 +19,13 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+div, img{
+    /* display: flex;
+    justify-content: center; */
+    min-width: 200px;
+    text-align: center;
+    margin: 0;
+}
 
 
 h1{
@@ -26,5 +33,10 @@ h1{
     color: green;
     text-shadow: gray;
     font-family: fantasy;
+}
+p{
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
 }
 
